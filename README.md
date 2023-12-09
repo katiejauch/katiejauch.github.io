@@ -1,15 +1,14 @@
 # katiejauch.github.io
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <!-- Lab 12A Katie Jauch, H01, 11/02/2023 -->
 <meta charset="utf-8">
-<title>Lab 11A KJ</title>
+<title>Lab 12A KJ</title>
 
 <style>
     body{background-color: white;}
-    h1{color:darkgreen;position: absolute; left: 20%;}
-    h2{color:red;position: absolute; top: 50px; left: 50%;}
+    h1{color:darkgreen;}
+    h2{color:red;}
     img{position: absolute; top: 100px; left: 50%;}
     div{position: absolute; top: 250px; left: 50%; font-size: 60px;}
 </style>
