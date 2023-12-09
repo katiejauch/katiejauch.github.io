@@ -1,4 +1,4 @@
-# katiejauch.github.io
+//# katiejauch.github.io
 <html lang="en">
 <head>
 <!-- Lab 12A Katie Jauch, H01, 11/02/2023 -->
@@ -20,7 +20,6 @@
     document.getElementById("bad").innerHTML = "Better luck next year!";
   }
 
-  
 </script>
 
 </head>
@@ -30,7 +29,7 @@
 
 <h2>Unwrap your present!!</h2>
 
-<img id="gift" src="lab12images/present.png" alt="unwrap the present" onmouseover="unwrap()">
+<img id="gift" width="75" height="75" src="lab12images/present.png" alt="unwrap the present" onmouseover="unwrap()">
 
 <div id="bad">
 
